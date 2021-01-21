@@ -1,0 +1,21 @@
+.cols {
+  padding: 4;
+  width: 256;
+  height: 500;
+}
+
+.column {
+  border-style: solid;
+}
+
+.button {
+  border-style: solid;
+  background-color: white;
+  text-align: center; 
+  padding: 1px 6px;
+  margin-left: 10px;
+}
+
+.colHead {
+  display: inline-block;
+}
